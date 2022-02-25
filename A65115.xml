@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman in Germany, touching the discovery of a stange murder committed there, by a person of quality, upon a lustfull fryer: for endeavouring to corrupt his lady. Being a translation.</title>
+            <author>Vandenberg, Abraham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65115</idno>
+            <idno type="STC">Wing V61A</idno>
+            <idno type="STC">ESTC R217141</idno>
+            <idno type="EEBO-CITATION">99828841</idno>
+            <idno type="PROQUEST">99828841</idno>
+            <idno type="VID">33273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1961:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman in Germany, touching the discovery of a stange murder committed there, by a person of quality, upon a lustfull fryer: for endeavouring to corrupt his lady. Being a translation.</title>
+                  <author>Vandenberg, Abraham.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by G.C. for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: Abraham Vandenberg. September the 11th. 1684.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  Germany --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33273:1"/>
+            <pb facs="tcp:33273:1" rendition="simple:additions"/>
+            <p>A LETTER FROM A Gentleman in <hi>Germany,</hi> touching the Diſcovery OF A Strange Murder, Committed there, by a Perſon OF QUALITY, UPON A Luſtfull <hi>FRYER:</hi> For endeavouring to Corrupt his LADY.</p>
+            <p>Being A Tranſlation.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. C.</hi> for the Author. 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33273:2"/>
+            <pb n="1" facs="tcp:33273:2" rendition="simple:additions"/>
+            <head>A LETTER FROM A Gentleman in <hi>Germany,</hi> touching the Diſcovery OF A Strange Murder.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HAving nothing further of News, more than what I communicat to you in my Laſt; I thought fit in order to the Maintenance of the Correſpond<g ref="char:EOLhyphen"/>ence between us, to give you the following Relation: Which for the Stranegneſs thereof, I Queſtion not but will meet with a ſuitable Reception.</p>
+            <p>A Gentleman of Quality In the Neighbourhood of <hi>Vienna,</hi> having in the late War Signaliz'd himſelf in the defence of the ſaid Town, during the time of his Ser<g ref="char:EOLhyphen"/>vice, he recieved an accidental Shot from the Enemies Battery, that Diſabled him from the further Engageing
+<pb n="2" facs="tcp:33273:3"/>himſelf in that War. Whereupon, this Noble Gentleman retired himſelf further up in the Country; where he had a Lady of ſuch <hi>Beauty</hi> as attracted the Eyes of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Men: Who reſiding with her <hi>Husband,</hi> in a ſeat of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> near adjoyning to a <hi>Convent,</hi> which this Gentleman h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> formerly Built; and allowing Maintenance to an <hi>Abbot</hi> and 12 <hi>Fryers:</hi> It hap'ned that 2 <hi>Fryers</hi> one called Father <hi>Conſtantine,</hi> and the other Father <hi>Conrade,</hi> who were at continual Variance and Enmity to each other, and could by no Means be Reconciled; inſo<g ref="char:EOLhyphen"/>much, that the whole <hi>Covent</hi> took particular notice thereof: And it being the Daily Cuſtom of this Gentle<g ref="char:EOLhyphen"/>man and his Lady, who intended a Life of Devocion to reſort to Prayers every Morning, the Lady being of an Affable and Courteous Diſpoſition: this good Behaviour of hers, bred an uncivil Boldneſs in Father <hi>Conſtantine,</hi> ſo that ſhe never came near the <hi>Cloyſter,</hi> but he was ſtill attending her with <hi>Bows, Cringes</hi> and <hi>Complements,</hi> and ſhe ſuſpecting nothing, returned him Thanks: which ſo far Encouraged the <hi>Fryer,</hi> that he reſolved at laſt to Write to her, and therein diſcover his Paſſion; which accordingly he did; and with much Difficulty conveyed the ſame to the Ladys Hand: Who being much Surpriſed that ſuch Lacivi<g ref="char:EOLhyphen"/>ouſneſs ſhould proceed from one that Vowed and pro<g ref="char:EOLhyphen"/>feſs'd Chaſtity, was reſolved to Diſcover the ſame to her Lord, which ſhe had no ſooner done, but he began to Repent him of his former Charity, in regard of this ſo great Ingratitude: yet meditateing Revenge, he ordered his Lady to Write in Anſwer to this Letter, that ſhe was very Compaſſionate of his Love; and that ſuch a Night her Husband being to go to Court, he ſhould be admitted, and Lodge according to his deſire.
+<pb n="3" facs="tcp:33273:3" rendition="simple:additions"/>The <hi>Fryer</hi> received the Letter with extreame Joy, and accordingly obſerving the Hour, he was admitted by the Lady her ſelf,) and Conveyed into a private Cham<g ref="char:EOLhyphen"/>ber: Where he was no ſooner entred, but in came the Gentleman with a Servant or two in great Fury, with<g ref="char:EOLhyphen"/>out giving him the leaſt time to call to the Houſe or Hea<g ref="char:EOLhyphen"/>ven, they Strangled the Luſtfull <hi>Fryer,</hi> and left him Dead upon the Place: Which was no ſooner done, but the Gentleman began to conſider the Horror and Danger of the Fact, both as to his Life and Eſtate; and after ſeveral Projects, he at laſt concluded with his Servants to have the Body Conveyed back into the <hi>Monaſtry,</hi> being divided from his own Houſe only by a <hi>Stone-Wall;</hi> and finding a Ladder hard by, one of the Servants mounts it with the <hi>Fryer</hi> upon his Back, and ſits with him awhile on the <hi>Wall,</hi> then drawing up the Ladder, and letting it down on the other ſide, he deſcends into the <hi>Convent,</hi> where ſpying the <hi>Houſe of Office,</hi> he ſets the Body thereon, as upright as poſſible, and ſo leaves it, and Conveys himſelf over the <hi>Wall</hi> again, but for haſt forgot the Ladder, and tells his Maſter how he had diſpoſed the <hi>Fryer;</hi> at which being better Satisfied, they retired to Bed, the matter being concealed from the reſt of the Family, being faſt a Sleep: But ſo it hapned, that as ſoon as the Servant got over the <hi>Wall,</hi> Father <hi>Conrade</hi> being troubled with a Looſ<g ref="char:EOLhyphen"/>neſs, haſts down to the <hi>Houſe of Office,</hi> where by the Light of the <hi>Moon,</hi> he percieved <hi>Fryer Conſtantine,</hi> his old Adverſary, got upon the Seat before him, who the louder he call'd, ſeemed the leſs to Hear; whereat thinking this pretended Deafneſs was out of Spite to Vex him, he ſnatches up a <hi>Brick-bat,</hi> and ſtriking him on the Breaſt, down tumbles <hi>Fryer Conſtantine,</hi> without
+<pb n="4" facs="tcp:33273:4"/>Life or Motion; which <hi>Conrade</hi> ſeeing, thought at firſt to raiſe him up, but after many Trials finding him to be ſtone Dead, he believed he had Kill'd him; and be<g ref="char:EOLhyphen"/>gan to Conſult with himſelf what he ſhould do in this caſe, the Gates were faſt Locked, and flie for his Life he could not: But as ſudden Extremity ſometimes meet ſudden Shifts, he ſpying the Ladder againſt the <hi>Wall,</hi> preſently apprehends what had been Whiſpered of <hi>Fryer Conſtantines</hi> Love to the Lady, and lifting him upon his Shoulder, by the help of the Ladder conveyed him into the Gentlemans Porch, and there left him; Conveying himſelf into the <hi>Monaſtry</hi> the ſame way he came, being not in the leaſt Suſpected. In the mean while the Gentleman being troubled in his Conſcience, could not Sleep, but calling up one of Servants bids him liſten to the <hi>Walls</hi> of the <hi>Monaſtry,</hi> which as he was about to do, paſſing the Porch, he ſpies Father <hi>Conſtantine</hi> ſiting upright upon the Bench; at which being greatly amazed, he run back and acquain<g ref="char:EOLhyphen"/>ted his Maſter therewith; who no leſs Surprized, could not believe the ſame, till he went down and became Eye Witneſs thereof; and being extreamly concerned, reflected on himſelf that Murder was a Crying Sin, and was ſeldom or never Concealed; yet recolecting his Memory, he reſolved to try a Deſperate Adventure, and put the Diſcovery upon Chance: And remembring he had an old <hi>Stallion</hi> in the <hi>Stable</hi> that had ſerved him in the War, and likewiſe a Ruſty Suit of <hi>Armor</hi> in his <hi>Armory;</hi> this he commands inſtantly to be brought with a Caſe of Ruſty <hi>Piſtols</hi> and a <hi>Launce;</hi> the Horſe was Imediately made Ready, and the Dead <hi>Fryer</hi> mounted and bound faſt to the Saddle; thus like a compleat Knight they turn'd him out of the Gate to
+<pb n="5" facs="tcp:33273:4"/>try his Adventures. Whilſt theſe things were thus fit<g ref="char:EOLhyphen"/>ting, <hi>Fryer Conrade</hi> in the <hi>Monaſtry</hi> was no leſs perplex<g ref="char:EOLhyphen"/>ed in his Mind than the Gentleman about the Murder; and much Dreading the ſtrictneſs of the Law, ſum<g ref="char:EOLhyphen"/>mond his Wits about him how to eſcape with his Life, which he thus Concluded: remembring there was in the <hi>Convent</hi> a <hi>Mare</hi> that was employed to carry <hi>Corn</hi> to and from a <hi>Mill</hi> about half a Mile from the <hi>Monaſtry,</hi> and being ſomewhat Fat, and doubting his Foot-man<g ref="char:EOLhyphen"/>ſhip, he thought it was better to truſt to 4 Legs than 2; whereupon he calls up the Baker that had charge of the Beaſt, and tells him he underſtood there was ſome Meal to be fetched that Morning from the Mill, which was Grinded by that time; and therefore if he would let him have the <hi>Mare,</hi> he would fetch it home for him, and ſave him the Trouble: The Fellow being glad of the Offer, cauſed the Back-Gate to be Opened, out of which the <hi>Fryer</hi> Rid, juſt at the ſame time when the Gentleman and his Servant had turn'd out <hi>Fryer Conſtantine,</hi> to ſeek his Fortune as aforeſaid. Where<g ref="char:EOLhyphen"/>upon the <hi>Horſe</hi> preſently ſcents the <hi>Mare,</hi> and Gallops after her, but <hi>Fryer Conrade</hi> looking back, was amazed to ſee an Armed Knight follow him; but much more when by the Light of the <hi>Moon</hi> and the Beaver flying up, he percieved it was <hi>Fryer Conſtantine</hi> that was thus Armed; and thereupon flies as faſt as he could: but after him, or rather after the <hi>Mare</hi> Speeds the <hi>Horſe:</hi> A great Noiſe there was, and <hi>Fryer Conrades</hi> ill Fate led him into a certain Turn-again-Lane, where he was overtaken by the <hi>Stone-Horſe,</hi> who covered the <hi>Mare;</hi> which cauſed a great Noiſe, and <hi>Fryer Conrades</hi> Con<g ref="char:EOLhyphen"/>ſcience thereupon Accuſing him, he cries out Guilty of Murder; at the Noiſe whereof the People gat out of
+<pb n="6" facs="tcp:33273:5"/>their Beds and run into the Street; where <hi>Fryer Con<g ref="char:EOLhyphen"/>rade</hi> Confeſs'd the Horrid and Unhumane Act he had done, in Murdering one of his <hi>Convent;</hi> which was look'd upon as a Judgment from <hi>Heaven,</hi> and believed from the former Grudge between them. Whereupon <hi>Fryer Conſtantine</hi> was Diſmounted and carried to his Grave, and <hi>Fryer Conrade</hi> was committed to Priſon, Arraigned and Condemned; but before Execution, the Gentleman poſts to the <hi>Emperour,</hi> and made his Con<g ref="char:EOLhyphen"/>feſſion of the whole Fact: Whereupon in reſpect of his former Service he was Pardoned by the <hi>Emperour;</hi> and <hi>Fryer Conrade</hi> Acquitted.</p>
+            <p>Thus Sir, you have the particulars of this Comical Tragedy; if I may ſo term it: Which I hope may Divert you, as it has done us in this Neighbour-hood. And in my next, I hope to give you an account of the Surrender of <hi>Buda:</hi> The Duke of <hi>Lorrain</hi> being great<g ref="char:EOLhyphen"/>ly Enforced by the acceſſion of the <hi>Bavarian Troops,</hi> which hath Encouraged his Army to a Wonder. This is all at preſent, with my Service to your Self and Lady, I remain</p>
+            <closer>
+               <signed>Your humble Servant <hi>Abraham Vandenberg.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>September</hi> the 11<hi>th.</hi> 1684.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
